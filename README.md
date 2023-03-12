@@ -5,7 +5,7 @@
   <H6>Desenvolvedor back-end e estudante de Análise e Desenvolvimento de Sistemas</h6>
   <a href="https://github.com/JonathanAlvesNogueira">
   <img width=42% height="180em" src="https://github-readme-stats.vercel.app/api?username=JonathanAlvesNogueira&show_icons=true&theme=dark" />
-  <img width=50% height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanAlvesNogueira&layout=compact&theme=dark" />
+  <img width=50% height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanAlvesNogueira&layout=compact&theme=dark" />
 </a>
 
 </div>
