@@ -3,7 +3,7 @@
 
 <div>
   <H6>Desenvolvedor back-end e estudante de Análise e Desenvolvimento de Sistemas</h6>
-  <a href="https://github.com/JonathanAlvesNogueira" style="display: flex; flex-wrap: wrap">
+  <a href="https://github.com/JonathanAlvesNogueira" style="display: flex;">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JonathanAlvesNogueira&show_icons=true&theme=dark" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanAlvesNogueira&layout=compact&theme=dark" />
 </a>
