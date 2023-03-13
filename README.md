@@ -18,6 +18,6 @@
 - 🔎 Em busca da minha primeira oportunidade na área de Desenvolvimento
 - 📫 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/jonathanalvesnogueira/).
 
-##
+
 
 
