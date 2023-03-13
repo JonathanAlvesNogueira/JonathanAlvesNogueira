@@ -17,6 +17,7 @@
 - 📚 Estou aprendendo Typescript, Java, Angular, MySql, JPA e Spring.
 - 🔎 Em busca da minha primeira oportunidade na área de Desenvolvimento
 - 📫 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/jonathanalvesnogueira/).
+- 💻 Eu participo dos treinamentos de capacitação nas linguagens descritas, em empresas como o Grupo Indra e o Banco Pan
 
 
 
