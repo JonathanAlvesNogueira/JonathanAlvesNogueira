@@ -4,8 +4,8 @@
 <div>
   <H5>Estagiário em Analista de dados e estudante de Análise e Desenvolvimento de Sistemas</h5>
   <a href="https://github.com/JonathanAlvesNogueira">
-  <img width=100% height="180em" src="https://github-readme-stats.vercel.app/api?username=JonathanAlvesNogueira&show_icons=true&theme=tokyonight" />
-  <img width=100% height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanAlvesNogueira&layout=compact&theme=tokyonight" />
+  <img width=100% height="100%" src="https://github-readme-stats.vercel.app/api?username=JonathanAlvesNogueira&show_icons=true&theme=tokyonight" />
+  <img width=100% height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanAlvesNogueira&layout=compact&theme=tokyonight" />
 </a>
 
 </div>
